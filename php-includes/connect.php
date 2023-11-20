@@ -1,9 +1,9 @@
 <?php
 
-		$db_host = "localhost";
-		$db_user = "zn4rf";
-		$db_pass = "C0P3RN1C0";
-		$db_name = "eNgLZSMw";
+		$db_host = "142.93.63.226";
+		$db_user = "root";
+		$db_pass = "123456";
+		$db_name = "miartesano";
 		
 		$con = mysqli_connect($db_host,$db_user,$db_pass,$db_name);
 		

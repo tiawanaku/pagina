@@ -31,7 +31,7 @@ $search = $userid;
             <div class="navbar-inner">
                 <div class="container">
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".navbar-inverse-collapse">
-                        <i class="icon-reorder shaded"></i></a><a class="brand" href="ingre.php">33investing.com </a>
+                        <i class="icon-reorder shaded"></i></a><a class="brand" href="ingre.php">Mi Artesano </a>
                     <div class="nav-collapse collapse navbar-inverse-collapse">
                     <img src="images/blue-home-icon.png" class="nav-avatar" />
                        <!--

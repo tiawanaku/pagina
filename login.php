@@ -4,7 +4,7 @@ require('php-includes/connect.php');
 $email = mysqli_real_escape_string($con,$_POST['email']);
 $password = mysqli_real_escape_string($con,$_POST['password']);
 
-$query = mysqli_query($con,"select * from user where email ='$email' and password ='$password'");
+$query = mysqli_query($con,"select * from registros where ci ='$email' and ci ='$password'");
 	if(mysqli_num_rows($query)>0){
 		$_SESSION['userid']=$email;
 		$_SESSION['id'] = session_id();

@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Bienvenido a 33 investing</a>
+                <a class="navbar-brand" href="index.html">Bienvenido a Mi Artesano</a>
             </div>
             <!-- /.navbar-header -->
 
