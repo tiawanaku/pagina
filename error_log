@@ -1,0 +1,312 @@
+[17-Aug-2017 04:52:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/znarf87/public_html/php-includes/connect.php on line 8
+[17-Aug-2017 04:52:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 4
+[17-Aug-2017 04:52:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 5
+[17-Aug-2017 04:52:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 7
+[17-Aug-2017 04:52:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/znarf87/public_html/login.php on line 8
+[17-Aug-2017 04:54:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/znarf87/public_html/php-includes/connect.php on line 8
+[17-Aug-2017 04:54:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 4
+[17-Aug-2017 04:54:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 5
+[17-Aug-2017 04:54:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 7
+[17-Aug-2017 04:54:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/znarf87/public_html/login.php on line 8
+[17-Aug-2017 04:54:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/znarf87/public_html/php-includes/connect.php on line 8
+[17-Aug-2017 04:54:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 4
+[17-Aug-2017 04:54:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 5
+[17-Aug-2017 04:54:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 7
+[17-Aug-2017 04:54:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/znarf87/public_html/login.php on line 8
+[17-Aug-2017 04:54:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/znarf87/public_html/php-includes/connect.php on line 8
+[17-Aug-2017 04:54:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 4
+[17-Aug-2017 04:54:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 5
+[17-Aug-2017 04:54:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 7
+[17-Aug-2017 04:54:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/znarf87/public_html/login.php on line 8
+[17-Aug-2017 17:38:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/znarf87/public_html/php-includes/connect.php on line 8
+[17-Aug-2017 17:38:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 4
+[17-Aug-2017 17:38:57 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 5
+[17-Aug-2017 17:38:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/znarf87/public_html/login.php on line 7
+[17-Aug-2017 17:38:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/znarf87/public_html/login.php on line 8
+[22-Aug-2017 14:53:46 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[23-Aug-2017 21:11:29 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[23-Aug-2017 21:11:37 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[23-Aug-2017 23:25:54 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[24-Aug-2017 03:55:17 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin-request.php on line 5
+[25-Aug-2017 02:17:48 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:17:48 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:17:48 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:17:48 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:18:27 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:18:27 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:18:27 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:18:27 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:22:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:22:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:22:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:22:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:11 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:11 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:11 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:11 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:21 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:21 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:21 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:21 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:30 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:30 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:30 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:30 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:34 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:34 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:34 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:34 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:44 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:44 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:44 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:44 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:26:50 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:26:50 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:26:50 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:26:50 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 02:29:17 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 02:29:17 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 02:29:17 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 02:29:17 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 03:04:04 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 03:04:04 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 03:04:04 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 03:04:04 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 03:26:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 03:26:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 03:26:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 03:26:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 06:03:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 06:03:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 06:03:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 06:03:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[25-Aug-2017 15:36:33 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/join.php on line 4
+[25-Aug-2017 21:59:59 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[25-Aug-2017 21:59:59 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[25-Aug-2017 21:59:59 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[25-Aug-2017 21:59:59 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[28-Aug-2017 21:31:05 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[28-Aug-2017 21:31:05 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[28-Aug-2017 21:31:05 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[28-Aug-2017 21:31:05 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[28-Aug-2017 21:52:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[28-Aug-2017 21:52:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[28-Aug-2017 21:52:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[28-Aug-2017 21:52:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[28-Aug-2017 22:05:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 56
+[28-Aug-2017 22:05:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 56
+[28-Aug-2017 22:06:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 56
+[28-Aug-2017 22:06:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 56
+[28-Aug-2017 22:07:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 154
+[28-Aug-2017 22:07:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 154
+[28-Aug-2017 22:07:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 154
+[28-Aug-2017 22:08:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 154
+[28-Aug-2017 22:11:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[28-Aug-2017 22:11:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[28-Aug-2017 22:11:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[28-Aug-2017 22:11:07 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[28-Aug-2017 22:16:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 153
+[28-Aug-2017 22:16:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 153
+[28-Aug-2017 22:16:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 153
+[28-Aug-2017 22:16:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/znarf87/public_html/join.php on line 153
+[28-Aug-2017 22:17:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/znarf87/public_html/join.php on line 182
+[28-Aug-2017 22:17:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/znarf87/public_html/join.php on line 182
+[28-Aug-2017 22:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function side_check() in /home/znarf87/public_html/join.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/znarf87/public_html/join.php on line 33
+[28-Aug-2017 22:32:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[28-Aug-2017 22:32:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[28-Aug-2017 22:32:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[28-Aug-2017 22:32:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[28-Aug-2017 22:47:42 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[28-Aug-2017 22:47:42 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[28-Aug-2017 22:47:42 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[28-Aug-2017 22:47:42 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[29-Aug-2017 00:09:19 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[29-Aug-2017 00:45:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function side_check(), 1 passed in /home/znarf87/public_html/join.php on line 33 and exactly 2 expected in /home/znarf87/public_html/join.php:177
+Stack trace:
+#0 /home/znarf87/public_html/join.php(33): side_check('belmonte.mlm@gm...')
+#1 {main}
+  thrown in /home/znarf87/public_html/join.php on line 177
+[29-Aug-2017 00:45:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function side_check(), 1 passed in /home/znarf87/public_html/join.php on line 33 and exactly 2 expected in /home/znarf87/public_html/join.php:177
+Stack trace:
+#0 /home/znarf87/public_html/join.php(33): side_check('belmonte.mlm@gm...')
+#1 {main}
+  thrown in /home/znarf87/public_html/join.php on line 177
+[29-Aug-2017 00:52:22 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[29-Aug-2017 00:54:57 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[29-Aug-2017 00:59:11 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[29-Aug-2017 01:07:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[29-Aug-2017 01:07:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[29-Aug-2017 01:07:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[29-Aug-2017 01:07:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[29-Aug-2017 01:15:09 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[29-Aug-2017 01:15:16 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[29-Aug-2017 01:15:16 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[29-Aug-2017 01:15:16 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[29-Aug-2017 01:15:16 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[29-Aug-2017 01:17:22 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[29-Aug-2017 01:17:22 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[29-Aug-2017 01:17:22 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[29-Aug-2017 01:17:22 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[29-Aug-2017 19:03:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[29-Aug-2017 19:03:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[29-Aug-2017 19:03:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[29-Aug-2017 19:03:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[29-Aug-2017 19:05:00 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[29-Aug-2017 19:05:09 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[29-Aug-2017 19:05:09 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[29-Aug-2017 19:05:09 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[29-Aug-2017 19:05:09 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[30-Aug-2017 19:35:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[30-Aug-2017 19:35:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[30-Aug-2017 19:35:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[30-Aug-2017 19:35:45 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[30-Aug-2017 19:35:58 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[30-Aug-2017 19:35:58 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[30-Aug-2017 19:35:58 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[30-Aug-2017 19:35:58 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[31-Aug-2017 23:25:11 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[14-Sep-2017 16:55:09 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[14-Sep-2017 17:08:27 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin-request.php on line 5
+[14-Sep-2017 17:43:14 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin-request.php on line 5
+[14-Sep-2017 19:58:40 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin-request.php on line 5
+[15-Sep-2017 15:17:11 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin.php on line 4
+[18-Sep-2017 21:32:10 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[20-Sep-2017 18:49:19 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[25-Sep-2017 16:18:24 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[25-Sep-2017 16:18:24 UTC] PHP Notice:  Undefined index: password in /home/znarf87/public_html/login.php on line 5
+[26-Sep-2017 14:50:30 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[26-Sep-2017 14:54:32 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[26-Sep-2017 14:54:32 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[26-Sep-2017 14:54:32 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[26-Sep-2017 14:54:32 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[26-Sep-2017 14:55:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[26-Sep-2017 14:55:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[26-Sep-2017 14:55:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[26-Sep-2017 14:55:26 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[26-Sep-2017 20:36:24 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[26-Sep-2017 20:36:24 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[26-Sep-2017 20:36:24 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[26-Sep-2017 20:36:24 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[27-Sep-2017 14:25:17 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[27-Sep-2017 22:58:26 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[27-Sep-2017 23:01:25 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[27-Sep-2017 23:01:25 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[27-Sep-2017 23:01:25 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[27-Sep-2017 23:01:25 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[27-Sep-2017 23:08:47 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin-request.php on line 5
+[27-Sep-2017 23:08:51 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[28-Sep-2017 15:11:56 UTC] PHP Notice:  Undefined variable: IDu in /home/znarf87/public_html/modificar.php on line 59
+[28-Sep-2017 16:05:55 UTC] PHP Notice:  Undefined variable: IDu in /home/znarf87/public_html/modificar.php on line 59
+[28-Sep-2017 18:17:08 UTC] PHP Notice:  Undefined variable: IDu in /home/znarf87/public_html/modificar.php on line 59
+[28-Sep-2017 18:17:47 UTC] PHP Notice:  Undefined variable: IDu in /home/znarf87/public_html/modificar.php on line 59
+[28-Sep-2017 18:17:55 UTC] PHP Notice:  Undefined variable: IDu in /home/znarf87/public_html/modificar.php on line 59
+[28-Sep-2017 18:19:45 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/modificar.php on line 4
+[28-Sep-2017 18:43:07 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/modificar_usuario.php on line 5
+[28-Sep-2017 22:47:10 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/modificar_usuario.php on line 5
+[29-Sep-2017 15:19:41 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/join.php on line 4
+[29-Sep-2017 15:56:38 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[30-Sep-2017 00:05:49 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[30-Sep-2017 14:35:56 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[30-Sep-2017 14:36:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[30-Sep-2017 14:36:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[30-Sep-2017 14:36:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[30-Sep-2017 14:36:14 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[30-Sep-2017 15:15:06 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[30-Sep-2017 15:15:06 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[30-Sep-2017 15:15:06 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[30-Sep-2017 15:15:06 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[30-Sep-2017 15:15:19 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/arbol.php on line 4
+[30-Sep-2017 15:15:19 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[30-Sep-2017 15:15:19 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[30-Sep-2017 15:15:19 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[30-Sep-2017 15:15:19 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[30-Sep-2017 15:16:27 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[01-Oct-2017 04:11:29 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[01-Oct-2017 04:11:29 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[01-Oct-2017 04:11:29 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[01-Oct-2017 04:11:29 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[01-Oct-2017 04:11:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[01-Oct-2017 04:11:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[01-Oct-2017 04:11:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[01-Oct-2017 04:11:37 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[01-Oct-2017 22:56:15 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/usuario.php on line 5
+[02-Oct-2017 15:52:47 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[02-Oct-2017 15:52:47 UTC] PHP Notice:  Undefined index: password in /home/znarf87/public_html/login.php on line 5
+[04-Oct-2017 11:17:11 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[04-Oct-2017 23:22:25 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[08-Oct-2017 15:15:36 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[08-Oct-2017 15:15:36 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[08-Oct-2017 15:15:36 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[08-Oct-2017 15:15:36 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[08-Oct-2017 15:36:13 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[08-Oct-2017 15:36:31 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[08-Oct-2017 15:36:31 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[08-Oct-2017 15:36:31 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[08-Oct-2017 15:36:31 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[08-Oct-2017 15:38:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[08-Oct-2017 15:38:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[08-Oct-2017 15:38:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[08-Oct-2017 15:38:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[08-Oct-2017 15:40:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[08-Oct-2017 15:40:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[08-Oct-2017 15:40:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[08-Oct-2017 15:40:18 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[09-Oct-2017 19:25:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[09-Oct-2017 19:25:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[09-Oct-2017 19:25:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[09-Oct-2017 19:25:38 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[09-Oct-2017 19:45:10 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[09-Oct-2017 19:45:10 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[09-Oct-2017 19:45:10 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[09-Oct-2017 19:45:10 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[09-Oct-2017 20:49:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[09-Oct-2017 20:49:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[09-Oct-2017 20:49:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[09-Oct-2017 20:49:13 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[10-Oct-2017 17:12:01 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[12-Oct-2017 23:29:18 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[13-Oct-2017 01:53:53 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[13-Oct-2017 13:46:41 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[13-Oct-2017 21:45:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[13-Oct-2017 21:45:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[13-Oct-2017 21:45:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[13-Oct-2017 21:45:28 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[13-Oct-2017 21:52:55 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[13-Oct-2017 21:52:55 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[13-Oct-2017 21:52:55 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[13-Oct-2017 21:52:55 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[14-Oct-2017 20:09:03 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[14-Oct-2017 20:09:03 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[14-Oct-2017 20:09:03 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[14-Oct-2017 20:09:03 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[15-Oct-2017 02:53:56 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[15-Oct-2017 02:54:03 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro-request.php on line 5
+[15-Oct-2017 04:03:37 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:09:36 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:10:41 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:25:01 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:25:36 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:27:30 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[15-Oct-2017 04:30:00 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[16-Oct-2017 18:05:46 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 152
+[16-Oct-2017 18:05:46 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 153
+[16-Oct-2017 18:05:46 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 154
+[16-Oct-2017 18:05:46 UTC] PHP Notice:  Undefined index:  in /home/znarf87/public_html/arbol.php on line 155
+[16-Oct-2017 18:08:53 UTC] PHP Notice:  Use of undefined constant left - assumed 'left' in /home/znarf87/public_html/join.php on line 21
+[16-Oct-2017 19:43:16 UTC] PHP Notice:  Undefined index: email in /home/znarf87/public_html/login.php on line 4
+[16-Oct-2017 19:43:16 UTC] PHP Notice:  Undefined index: password in /home/znarf87/public_html/login.php on line 5
+[16-Oct-2017 19:43:31 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/pin.php on line 4
+[16-Oct-2017 22:29:18 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/retiro.php on line 4
+[17-Oct-2017 11:31:35 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/usuario.php on line 5
+[17-Oct-2017 14:48:55 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/usuario.php on line 5
+[17-Oct-2017 15:50:54 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/usuario.php on line 5
+[17-Oct-2017 15:50:54 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/home.php on line 4
+[17-Oct-2017 15:50:55 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/modificar_usuario.php on line 5
+[17-Oct-2017 17:40:59 UTC] PHP Notice:  Undefined index: userid in /home/znarf87/public_html/join.php on line 4
